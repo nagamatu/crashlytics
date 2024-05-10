@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303607914101",
+    "firebase_url": "https://radiocontrol-4df4b.firebaseio.com",
+    "project_id": "radiocontrol-4df4b",
+    "storage_bucket": "radiocontrol-4df4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303607914101:android:dd35776959b1fa597be23c",
+        "android_client_info": {
+          "package_name": "com.gmail.nagamatu.crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303607914101-lrva6ibvfn2mrh9e770hlj9u6p5gms3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXkc9VV6YSGSEdul9myzELRINGrfuUA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303607914101-lrva6ibvfn2mrh9e770hlj9u6p5gms3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
